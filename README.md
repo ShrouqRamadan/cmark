@@ -14,6 +14,6 @@
 
 Laravel with VUE JS as font end serving users to add , delete , update and completed tasks in real time requests
 ---------------------
-DEMO url : <a href="https://todoapp.cmark.sa/">TODO APP</a>
+DEMO url : <a href="https://todoapp.cmark.sa/" target="_blank">TODO APP</a>
 
 
